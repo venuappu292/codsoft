@@ -1,4 +1,3 @@
-package dharsh_new;
 import java.util.Scanner;
 
 public class Students {
